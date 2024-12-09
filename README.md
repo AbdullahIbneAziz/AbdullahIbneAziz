@@ -16,6 +16,13 @@
   <a href="https://www.facebook.com/abdullah.miraz09" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
+  <a href="https://github.com/AbdullahIbneAziz" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/github/default.svg" width="52" height="40" alt="github logo"  />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbdullahIbneAziz&color=blue" alt="Profile Views" />
 </div>
 
 ###
