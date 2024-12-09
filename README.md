@@ -22,12 +22,6 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdullahIbneAziz&color=blue" alt="Profile Views" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Aspiring+Data+Scientist;Creative+Content+Writer" alt="Typing SVG" />
 </div>
 
@@ -82,8 +76,6 @@
 
 ###
 
-
-
 <h3 align="left">😄 Pronouns:</h3>
 
 ###
@@ -93,6 +85,7 @@
 ###
 
 <p align="left">When I'm not immersed in data, I enjoy creative writing and exploring new ways to tell stories through numbers and insights. Let's connect and make data work for a better future! 🌟</p>
+
 ###
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -117,24 +110,23 @@
 
 ###
 
-
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?AbdullahIbneAziz=your-github-AbdullahIbneAziz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahIbneAziz&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdullahIbneAziz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https:/your-github-username/profile-counter.glitch.me//count.svg?"  />
-</div>
-
-###
-<div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake contribution graph animation" />
 </div>
 
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AbdullahIbneAziz/count.svg" alt="visitor count" />
+</div>
 
 ###
