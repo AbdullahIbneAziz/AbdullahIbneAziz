@@ -72,18 +72,7 @@
 
 ###
 
-<h3 align="left">📫 How to Reach Me:</h3>
 
-###
-
-<p align="left">
-• Email: 22203246@iubat.edu<br>
-• Instagram: @overlordmiraz<br>
-• Facebook: https://www.facebook.com/abdullah.miraz09<br>
-• LinkedIn: https://www.linkedin.com/in/mdabdullahibneaziz/
-</p>
-
-###
 
 <h3 align="left">😄 Pronouns:</h3>
 
