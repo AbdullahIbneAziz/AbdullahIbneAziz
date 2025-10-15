@@ -121,9 +121,5 @@ Pronouns: He/Him
 ### Visitors (last 7 days)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/${USER:-AbdullahIbneAziz}/AbdullahIbneAziz/main/shields/weekly_visits.json" alt="Weekly visitors graph" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/AbdullahIbneAziz/AbdullahIbneAziz/main/shields/weekly_visits.json&style=for-the-badge" alt="Visits this week badge" />
 </div>

@@ -1,6 +1,8 @@
 name: Update weekly visits badge
 
 on:
+  push:
+    branches: [ main, master ]
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
@@ -32,11 +34,12 @@ jobs:
           echo '${{ steps.traffic.outputs.response }}' > shields/_traffic.json
           # Sum the last 7 days counts; fallback to 0 if jq missing fields
           weekly=$(jq -r '[.views[] | select(.timestamp) | .count] | .[-7:] | add // 0' shields/_traffic.json)
-          echoes=$(jq -r '[.views[] | select(.timestamp) | .uniques] | .[-7:] | add // 0' shields/_traffic.json)
           color="blueviolet"
-          cat > shields/weekly_visits.json <<EOF
-{ "schemaVersion": 1, "label": "visits this week", "message": "${weekly}", "color": "${color}" }
-EOF
+          jq -n \
+            --arg weekly "$weekly" \
+            --arg color "$color" \
+            '{schemaVersion:1,label:"visits this week",message:$weekly,color:$color}' \
+            > shields/weekly_visits.json
 
       - name: Commit badge JSON
         run: |
