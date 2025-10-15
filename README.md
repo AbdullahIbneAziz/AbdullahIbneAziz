@@ -97,7 +97,7 @@ Pronouns: He/Him
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdullahIbneAziz&theme=dracula&hide_border=true" height="150" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=AbdullahIbneAziz&theme=dracula&hide_border=true" height="150" alt="GitHub streak" />
 </div>
 
 <div align="center">
@@ -105,7 +105,7 @@ Pronouns: He/Him
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahIbneAziz&theme=dracula&no-frame=true&no-bg=true&column=6" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahIbneAziz&theme=dracula&no-frame=true&no-bg=true&row=1&column=6" alt="GitHub trophies" />
 </div>
 
 <div align="center">
@@ -114,4 +114,12 @@ Pronouns: He/Him
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</div>
+
+---
+
+### Visitors (last 7 days)
+
+<div align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https%3A%2F%2Fgithub.com%2FAbdullahIbneAziz" alt="Weekly visitors graph" />
 </div>
